@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: StatBuffs
+## Notes: Shows a live window of the cumulative stat bonuses (buffs) on your character.
+## Author: phill
+## Version: 1.0.0
+## SavedVariables: StatBuffsDB
+
+StatBuffs.lua

@@ -1,0 +1,5 @@
+<Bindings>
+    <Binding name="STATBUFFS_TOGGLE" header="STATBUFFS">
+        StatBuffs_Toggle()
+    </Binding>
+</Bindings>
